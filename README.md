@@ -1,2 +1,2 @@
-# Numerisk-Integrasjon
- Analyse av ulike numeriske integrasjonsmetoder
+# Numerisk Integrasjon
+ Analyse av ulike numeriske integrasjonsmetoder.
